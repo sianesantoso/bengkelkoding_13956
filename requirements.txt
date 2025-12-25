@@ -1,7 +1,8 @@
-joblib
+joblib==1.5.2
+pandas==2.3.3
+streamlit==1.37.1
 python
-pandas
-streamlit
 imbalanced-learn
 scikit-learn
+
 
